@@ -3,7 +3,7 @@
   "value": {
     "key": "STRIDE",
     "chain-id": "STRIDE-TESTNET-4",
-    "rpc-addr": "http://78.107.234.44:36657",
+    "rpc-addr": "http://62.171.173.206:16657",
     "account-prefix": "stride",
     "keyring-backend": "test",
     "gas-adjustment": 1.2,
